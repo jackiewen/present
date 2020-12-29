@@ -1,0 +1,25 @@
+table th, table td
+{
+    white-space: nowrap;
+}
+
+.action-admin
+{
+    width: 15%;
+}
+
+@media (min-width: 1200px)
+{
+    .action-admin
+    {
+        width: 10%;
+    }
+}
+
+@media (min-width: 1600px)
+{
+    .action-admin
+    {
+        width: 7%;
+    }
+}

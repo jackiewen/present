@@ -1,0 +1,13 @@
+@media (min-width: 1440px) {
+    .action
+    {
+        width: 15%;
+    }
+}
+
+@media (min-width: 1600px) {
+    .action
+    {
+        width: 12%;
+    }
+}

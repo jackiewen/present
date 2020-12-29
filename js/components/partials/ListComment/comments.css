@@ -1,0 +1,25 @@
+.post.current
+{
+    text-align: right;
+}
+
+.current .user-block img
+{
+    float: right;
+}
+
+.current .user-block .username
+{
+    margin-right: 50px;
+    margin-left: 0;
+}
+.current .user-block .description{
+    margin-top: -13px;
+    margin-right: 50px;
+}
+.current .user-block .description {
+    margin-top: -13px;
+}
+.parent_comment .user-block .description {
+    padding-top: 0;
+} 

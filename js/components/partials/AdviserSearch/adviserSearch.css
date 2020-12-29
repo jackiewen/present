@@ -1,0 +1,6 @@
+@media (max-width: 1400px) {
+    #adviserSearchForm .css-1wa3eu0-placeholder, #adviserSearchForm select
+    {
+        font-size: 11px;
+    }
+}
